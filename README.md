@@ -1,4 +1,5 @@
 ## Note Taking App 
+Anastasia Riawan Soenjoto
 
 Simple note taking app in Swift. 
 
